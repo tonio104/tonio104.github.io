@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"battlerName":"antonio fight","characterIndex":0,"characterName":"antonio walk","classId":1,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"antonio face","traits":[],"initialLevel":99,"maxLevel":99,"name":"Antonio","nickname":"Antonio","note":"","profile":"tuff boiii "},
+{"id":2,"battlerName":"von fight","characterIndex":0,"characterName":"von walk","classId":8,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"von face","traits":[],"initialLevel":50,"maxLevel":99,"name":"Von","nickname":"Von","note":"","profile":"keep ur pogs and food close he finna take it"},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"Nature","classId":9,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nature","traits":[],"initialLevel":65,"maxLevel":99,"name":"Butterdog","nickname":"b-dawg","note":"","profile":"a dog with butter on him"},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"micheal fight","characterIndex":0,"characterName":"micheal walk","classId":7,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"micheal face","traits":[],"initialLevel":70,"maxLevel":99,"name":"Evil Micheal","nickname":"Evil Micheal","note":"","profile":"Micheal loves mrs haynes class"},
+{"id":9,"battlerName":"raiden fight","characterIndex":0,"characterName":"raiden walking","classId":1,"equips":[5,0,0,0,0],"faceIndex":0,"faceName":"raiden face","traits":[],"initialLevel":70,"maxLevel":99,"name":"Evil Raiden","nickname":"Evil Raiden","note":"","profile":"Raiden is the boss"}
+]
